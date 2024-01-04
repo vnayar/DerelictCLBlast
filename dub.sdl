@@ -1,0 +1,10 @@
+name "derelict-extras-clblast"
+description "A dynamic binding to the CLBlast (OpenCL BLAS Tuned) API."
+authors "Vijay Nayar"
+copyright "Copyright © 2024, Vijay Nayar"
+license "MIT"
+targetName "DerelictCLBlast"
+targetPath "lib"
+
+dependency "derelict-util" version="~>3.0.0-beta.1"
+dependency "derelict-cl" version="~>3.2.0"

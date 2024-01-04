@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/derelict-extras-clblast-test
+derelict-extras-clblast-test.so
+derelict-extras-clblast-test.dylib
+derelict-extras-clblast-test.dll
+derelict-extras-clblast-test.a
+derelict-extras-clblast-test.lib
+derelict-extras-clblast-test-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst

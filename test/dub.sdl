@@ -1,0 +1,7 @@
+name "derelict-extras-clblast-test"
+description "Test loading the CLBlast D binding."
+authors "Vijay Nayar"
+copyright "Copyright © 2024, Vijay Nayar"
+license "MIT"
+
+dependency "derelict-extras-clblast" path="../"

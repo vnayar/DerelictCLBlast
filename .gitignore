@@ -1,0 +1,21 @@
+.dub
+docs.json
+__dummy.html
+docs/
+lib/
+/derelict-extras-clblast
+derelict-extras-clblast.so
+derelict-extras-clblast.dylib
+derelict-extras-clblast.dll
+derelict-extras-clblast.a
+derelict-extras-clblast.lib
+derelict-extras-clblast-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst
+
+# Emacs/Vim
+\#*\#
+*~
